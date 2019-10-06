@@ -1,0 +1,12 @@
+//este é um comentário
+#include <iostream>
+
+using namespace std;
+
+int main() 
+{
+int x=128;
+cout << "Hello World!alignas<< endl>
+system ("pause");
+return 0;
+}
